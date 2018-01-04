@@ -1,0 +1,19 @@
+bootarap .... knjižnica
+
+namenjen da obstojeèo kodo nadgrajujemo
+
+@media pove, da to velja za zaslone, ki merijo vsaj (1100px)
+
+offset---> še nekje naj zaène
+
+Homework:
+
+na bootstrapu je zgrajenih že oromno nekih tem
+
+start bootstrap!!
+
+bootstrap navigation!!
+
+ikone----tudi font awsome
+
+priredba frizerskega salona!
